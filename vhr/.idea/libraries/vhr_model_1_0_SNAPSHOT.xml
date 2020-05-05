@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="vhr-model-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vhrserver/vhr-model/target/vhr-model-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/vhrserver/vhr-model/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

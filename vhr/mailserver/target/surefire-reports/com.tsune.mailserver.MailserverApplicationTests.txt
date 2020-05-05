@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tsune.mailserver.MailserverApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.437 s - in com.tsune.mailserver.MailserverApplicationTests
